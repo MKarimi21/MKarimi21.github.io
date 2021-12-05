@@ -30,7 +30,7 @@ And I love to learn CEH, Cryptography, Open Source Society and Sociology. 🙂
 <br>
 <br>
 
-<pre align='center'><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="25%" /></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="25%" /></a></pre>
+<pre align='center'><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-leftside.svg" align="left" width="45.7%" /></a><a href="https://metrics.lecoq.io/about/mkarimi21"><img src="https://raw.github.com/MKarimi21/MKarimi21/master/metrics-rightside.svg" align="right" width="45.7%" /></a></pre>
 
 <br>
 <br>
